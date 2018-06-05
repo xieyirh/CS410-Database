@@ -1,0 +1,3 @@
+SELECT * 
+FROM User as u 
+WHERE NOT EXISTS(SELECT * FROM Followers as f WHERE f.Followee = u.ID)

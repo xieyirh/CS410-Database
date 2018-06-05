@@ -1,0 +1,7 @@
+SELECT bb.ID, bb.UserName, bb.Location
+FROM (Select aa.ID, aa.UserName, aa.Location, MAX(total_ReTweets)
+	  FROM (SELECT ID, UserName, Location, COUNT(*) as total_ReTweets
+			FROM User, ReTweet
+			IGNORE INDEX(User)
+			 WHERE ID = User2
+			 GROUP BY ID) AS aa) AS bb 

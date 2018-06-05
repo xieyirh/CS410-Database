@@ -1,0 +1,1 @@
+ INSERT INTO 410G11.Tweets (UserID, TimeStamp, Tweet) VALUES (?, NOW(), ?)

@@ -1,0 +1,313 @@
+USER NAME           ID                  LOCATION
+================================================================================
+@1013KDWB           2                   Nampa
+@14ParamorePH       4                   Los Angeles
+@19ester            5                   Boise
+@8bitszombiee       7                   Los Angeles
+@ARTTM              8                   Los Angeles
+@AWWNeverSorry:     10                  Los Angeles
+@2020_istanbul      15                  Boise
+@ASpookyGhost_24    19                  Los Angeles
+@AdamsLisa:         27                  Nampa
+@3Dconnexion:       32                  Nampa
+@3dsJamiesJewels    34                  Boise
+@ACAD_RickGraham    39                  Boise
+@BowmanCG           42                  Los Angeles
+@BreatheBrasil      43                  Boise
+@BreatheForPmore    44                  Los Angeles
+@BreatheForPmore:   45                  Nampa
+@87th               50                  Boise
+@AkronJAY           51                  Los Angeles
+@ConexaoSP_BR       57                  Boise
+@CynicalCyanide     59                  St. Louis, MO
+@BlueB15            71                  Nampa
+@Budo               78                  Los Angeles
+@Audiotist          80                  Los Angeles
+@BNRzaken           81                  Boise
+@BWiesberger.       83                  Boise
+@50cent.            84                  Los Angeles
+@BenLiebrand:       88                  Nampa
+@Benjamin_Herman,   89                  Boise
+@FansBrParamore     91                  Nampa
+@FcoFKNElektra      93                  Boise
+@BobMaron           99                  Boise
+@187KillerCali      134                 Los Angeles
+@311dvm             137                 Los Angeles
+@317lindquist:      138                 Nampa
+@1057thePoint       147                 Nampa
+@91a                158                 Boise
+@BBCNews            188                 Los Angeles
+@DocGirlfriend,     205                 Los Angeles
+@ArcticEmpire:      211                 Boise
+@Aamupojat          213                 Nampa
+@AnttiHacklin:      214                 Nampa
+@AndrewHaydSmith    220                 Nampa
+@AndyAkin82         221                 Nampa
+@ArticulatePanda    223                 Nampa
+@Chrisgrismer       248                 Boise
+@EricIGN:           253                 Nampa
+@#$                 280                 Nampa
+@BoingBoing         291                 Boise
+@BoraZ              292                 Boise
+@Brooklyn           298                 Los Angeles
+@15cwine            299                 Boise
+@BloombergGov       301                 Nampa
+@CameronNeylon      308                 Nampa
+@BdyDrpdKotaEC      310                 Los Angeles
+@ChrisRyanPhD       317                 Boise
+@CoryBooker         322                 Boise
+@DNLee5             323                 Nampa
+@AllPlanets         327                 Boise
+@Astro_yyz          330                 Los Angeles
+@BBC_Space:         331                 Los Angeles
+@DeepChallenge)     335                 Los Angeles
+@Dodgers            339                 Nampa
+@Dr_Bik             349                 Boise
+@EnsignPaul:        352                 Boise
+@EricaRHill         354                 Boise
+@BradleyAlumni      357                 Nampa
+@ACAD_Teacher       370                 Nampa
+@ADSKCommunity      373                 Los Angeles
+@ADSKCommunity:     374                 Boise
+@ASimoes7:          378                 Los Angeles
+@A_KarrisEVE        383                 Nampa
+@AngelaDeFinis:     385                 Boise
+@30icons:           400                 Boise
+@A4VGaming          403                 Los Angeles
+@Apathy_Cs          407                 Boise
+@As_We_Sleep        408                 Boise
+@AsiaN_1e           409                 Los Angeles
+@Appremium          418                 Boise
+@BeingCivil:        419                 Boise
+@Bwandon_OBJ        431                 Boise
+@CadFileRefiner     454                 Los Angeles
+@CarlBass           459                 Boise
+@BrianPuspos:       480                 Los Angeles
+@BloggingABDC       485                 Boise
+@CanPOREOTICS       489                 Los Angeles
+@ElrondBurrell      492                 Nampa
+@CityYear           502                 Los Angeles
+@DefenseGov:        503                 Los Angeles
+@Aesth3tic_Karma    511                 Los Angeles
+@ATVIAssist.        515                 Boise
+@AllDaysPass        519                 Boise
+@DigitalNoob_com    529                 Nampa
+@Awfy:              531                 Nampa
+@CraigReville       533                 Nampa
+@1                  548                 Los Angeles
+@ConfinedPC         550                 Los Angeles
+@KahunaPirate       554                 Boise
+@#$s                572                 Los Angeles
+@HollisterCo        577                 Los Angeles
+@AshleeBarrera      701                 Los Angeles
+@BJam_NOHO          703                 Los Angeles
+@DangerPenguin      721                 Los Angeles
+@1ChicaDice:        750                 Los Angeles
+@8bitweapon:        759                 Boise
+@Ausserkraft        800                 Boise
+@HilaryHRhoda       810                 Nampa
+@Ajuda              818                 Los Angeles
+@CONX...            821                 Los Angeles
+@FergusHanson:      828                 Boise
+@Eloqua:            832                 Nampa
+@3FM                847                 Los Angeles
+@ANNESOxsp          857                 Boise
+@BobBalaban         875                 Los Angeles
+@CourtClydesdale    885                 Los Angeles
+@DoctorDoug:        891                 Boise
+@DJ_BassD           901                 Nampa
+@Jason23Nash        920                 Los Angeles
+@AnimeBoston.       957                 Nampa
+@EighthDoctor       972                 Boise
+@Jay2KWinger        979                 Los Angeles
+@EChuckinCharge     980                 Nampa
+@#%ing              983                 Nampa
+@Astro_Ron:         987                 Boise
+@Brett:             998                 Boise
+@CheifKeef          1005                Boise
+@ANI_news:          1014                Los Angeles
+@AFTunion           1037                Los Angeles
+@AP's               1042                Los Angeles
+@94mim              1205                Los Angeles
+@JustAneesha        1247                Los Angeles
+@Krystalle:         1250                Nampa
+@AbbottBradley      1274                Los Angeles
+@IamBuckness        1284                Nampa
+@Mr_Professor       1291                Los Angeles
+@10_9               1292                Los Angeles
+@Ari_Zucker         1298                Los Angeles
+@42floors           1322                Los Angeles
+@Brandamentalist:   1343                Los Angeles
+@BirthdayPartyyy:   1357                Boise
+@10_AMac            1478                Nampa
+@19_Costa           1503                Nampa
+@1AngelLTL:         1525                Los Angeles
+@AllenCameronCH     1548                Boise
+@Amy__Wolpa         1574                Boise
+@DChernyshenko:     1759                Boise
+@2SMART4EVERY1      1793                Nampa
+@AbbyKerr:          1834                Boise
+@AdamKingStudio     1837                Nampa
+@BertTheBigHurt     1852                Los Angeles
+@BrandonBeck:       1858                Nampa
+@AndySwift:         1880                Nampa
+@Barbielk           1881                Nampa
+@Drakmarth          1941                Los Angeles
+@EverettGresham     1959                Los Angeles
+@CaroChibau:        1971                Boise
+@GeekGirlCon.       1988                Los Angeles
+@Drusticeleague     2042                Nampa
+@FairladyMedia:     2045                Boise
+@GrouchoDuke        2055                Nampa
+@Justinbieber's     2071                Los Angeles
+@DaemZero           2138                Boise
+@GamingShogun       2141                Los Angeles
+@Mrluga             2153                Nampa
+@Crash1             2177                Nampa
+@CyTheWriter        2179                Boise
+@BobbyOnMKEcom      2185                Los Angeles
+@BtotheD            2188                Boise
+@Frawlz             2194                Nampa
+@Necr0mantic        2244                Boise
+@DJDannyHoward      2288                Los Angeles
+@JackNorrisRD       2342                Los Angeles
+@AnimeConsTV:       2347                Nampa
+@Arisia             2350                Boise
+@ChibiProject:      2353                Los Angeles
+@AceMoms:           2417                Boise
+@CollegeGameDay     2450                Nampa
+@KristinCav:        2515                Los Angeles
+@BabyTrixie         2753                Los Angeles
+@AlYankovic         2994                Nampa
+@HBO.               3158                Boise
+@AaronMarshall      3188                Nampa
+@BEEP               3197                Los Angeles
+@Astro_Luca         3298                Boise
+@DLR_en:            3343                Greenville, NC
+@ESA_fr             3374                Boise
+@HAL9000_:          3393                Los Angeles
+@GatorOakley        3419                Nampa
+@ANHQDC             3443                Boise
+@Beyonce            3447                Nampa
+@TheSunToday        3549                Nampa
+@KoebesJakob        3802                Boise
+@AnnasysDulain      3847                Boise
+@Jbastianich:       4134                Los Angeles
+@BriProv            4200                Nampa
+@Bullseye:          4201                Nampa
+@BrooklynMuseum's   4214                Los Angeles
+@IamDeanTate:       4259                Boise
+@EmilyGould         4289                Boise
+@Mindshare          4304                Nampa
+@BenJoBubble        4344                Nampa
+@Verge:             4378                Nampa
+@AndrewLauritzen    4433                Los Angeles
+@BFigaro            4720                Boise
+@MediaMolecule      4730                Boise
+@DonNorbury         4821                Los Angeles
+@ArtistVsPoet       4881                Boise
+@Disneyland         4895                Los Angeles
+@Geo_Antoinette     4910                Los Angeles
+@JacobWysocki),     4991                Los Angeles
+@ArmyROTC           5011                Nampa
+@BenRT              5193                Los Angeles
+@CrReaM:            5232                Nampa
+@1stwebdesigner:    5245                Nampa
+@CandisAshley       5439                Los Angeles
+@Duchess_99         5478                Nampa
+@Kandi              5792                Nampa
+@HarperCollins:     7274                Nampa
+@AlecLongstreth:    7414                Boise
+@BenFolds:          7423                Los Angeles
+@CherrieT           7428                Los Angeles
+@Elkoorps           7437                Boise
+@FIRSTLEGOLeague    7533                Nampa
+@JeremyDorgas       7540                Los Angeles
+@LGSTV              7551                Raleigh, NC
+@13pt               7590                Los Angeles
+@AlexNoisy          7592                Nampa
+@Alexa_Chung,       7782                Nampa
+@AlexanderWangNY    7783                Boise
+@BlairHefty         7932                Los Angeles
+@DVF,               7937                Nampa
+@DalaiLama:         7942                Los Angeles
+@FACTORYPR:         8005                Los Angeles
+@HughMasekela       8294                Los Angeles
+@Fem_G33k_08        8303                Nampa
+@JERSEYJOEISM       8381                Los Angeles
+@JenBoydSD          8385                Nampa
+@Katykeim           8391                Los Angeles
+@27L                8398                Nampa
+@BarkingCarnival:   8498                Boise
+@Common__Threads    8598                Los Angeles
+@GolfChannel:       8711                Nampa
+@JensTimmermans     8732                Nampa
+@GamerIntel:        8898                Nampa
+@JenaNardella:      8942                Nampa
+@Gamesradar         9100                Nampa
+@GoatwhoreNOLA      9101                Boise
+@Hatewear:          9110                Los Angeles
+@BlitzComicGuy:     9574                Boise
+@House_Next_Door    9702                Nampa
+@TheUsedBlack       9797                Nampa
+@ToneCartoons:      9798                Nampa
+@Latzke:            9851                Boise
+@Ayngelina          9903                Boise
+@BruceMartin        9914                Boise
+@CarloBrown         9972                Los Angeles
+@DavidDiFranco:     9987                Nampa
+@Malaria_Envoy      10128               Boise
+@345triangle        10152               Los Angeles
+@Eddie_Ruckus:      10445               Los Angeles
+@CherylMorgan       10534               Boise
+@EricaViscio:       10704               Boise
+@AndrewClaudio      10895               Nampa
+@SanjBBC            11044               Boise
+@AdamPlotkin        11170               Los Angeles
+@JasonGregor        11444               Los Angeles
+@DBArgenis          11711               Boise
+@METROPEORIA:       11792               Los Angeles
+@Khaosgoblin        11888               Los Angeles
+@BeachBallComics    12005               Boise
+@BEEFMagazine:      12270               Nampa
+@BrightEndeavors    12281               Los Angeles
+@DonnyO93           12318               Los Angeles
+@DaenaTargaryen     12389               Nampa
+@Mike_FTW           12748               Boise
+@Gorskino10         12755               Boise
+@JordyTodosey       13134               Los Angeles
+@1ET                13248               Nampa
+@CityMinneapolis    13894               Nampa
+@Spark7z            14025               Nampa
+@CBoyardee          14031               Los Angeles
+@CiaraBallintyne    14070               Los Angeles
+@GabrielMY          14075               Los Angeles
+@MLGTakeover        14549               Boise
+@MarthaRoby:        14571               Los Angeles
+@Mista573:          14572               Los Angeles
+@BeingMama:         14577               Nampa
+@O2_Con             14584               Nampa
+@805Living          14590               Boise
+@AdamantiumAC:      15113               Nampa
+@DiabloOTR          15451               Boise
+@bigthink]          19150               Los Angeles
+@cmwalla            19153               Nampa
+@djdan85:           19158               Nampa
+@eastdakota         19159               Los Angeles
+@dustintoshiyuki    19870               Nampa
+@miss_yolie         19913               Boise
+@kylemeyer          20920               Los Angeles
+@SolidSnakeEFC      22779               Boise
+@levidehaan         27004               Boise
+@dlwh               28097               Los Angeles
+@HisforHOYR         29233               Los Angeles
+@mrjudkins          30230               Boise
+@mruff221           30231               Boise
+@nikkifinke         30241               Boise
+@geekyglamorous     31213               Nampa
+@MVPKeeN            31955               Boise
+@MVPNoblesse        31957               Los Angeles
+@dynamoe            34282               Los Angeles
+@intlCES            34312               Nampa
+@avleen             35481               Los Angeles
+@FakeCivilWar:      37532               Los Angeles

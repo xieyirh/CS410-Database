@@ -1,0 +1,1 @@
+SELECT * FROM User WHERE ( SELECT COUNT(*) FROM Followers WHERE ID = Followee) >= 1000

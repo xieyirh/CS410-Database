@@ -1,0 +1,25 @@
+Joshua Claus
+Yi Xie
+CS410
+Final Project
+Exercise 3
+
+------------------------------------------------
+|  TASK  |  NORMAL TIME  |  IGNORE INDEX TIME  |
+------------------------------------------------
+|    1   |     2.8294    |       0.00033       |
+------------------------------------------------
+|    2   |     0.3488    |       0.00073       |
+------------------------------------------------
+|    3   |     0.0236    |       0.00682       |
+------------------------------------------------
+|    4   |     2.2554    |       0.00035       |
+------------------------------------------------
+
+TASK:  Number of task used for analysis.
+
+NORMAL TIME:  Time in seconds taken for task to complete under normal
+  usage. Averaged time of 5 runs.
+
+IGNORE INDEX TIME:  Time in seconds taken for task to complete adding 
+  'IGNORE TABLE' into query. Averaged time of 5 runs.

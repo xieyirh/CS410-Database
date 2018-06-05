@@ -1,0 +1,1 @@
+SELECT u.UserName, u.ID, u.Location, t.Tweet FROM User AS u, Tweets AS t WHERE u.ID = t.UserID AND Tweet LIKE ?
